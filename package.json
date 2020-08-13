@@ -1,0 +1,25 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "comparte tus fotos estudiando con la comunidad",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napodevesa/ndev_gram.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "ndev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/napodevesa/ndev_gram/issues"
+  },
+  "homepage": "https://github.com/napodevesa/ndev_gram#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
