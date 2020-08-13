@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/napodevesa/ndev_gram#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "materialize-css": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
   }
 }
