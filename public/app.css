@@ -1,0 +1,15 @@
+body
+{
+	background: #ffffff;
+	color: #1256;
+}
+
+#main-container
+{
+margin: 30px auto;
+}
+
+.iphone
+{
+max-width: 100%
+}
